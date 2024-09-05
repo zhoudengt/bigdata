@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.aliyun.odps:odps-spark-datasource_2.11:3.3.8-public">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Documents/repository/com/aliyun/odps/odps-spark-datasource_2.11/3.3.8-public/odps-spark-datasource_2.11-3.3.8-public.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Documents/repository/com/aliyun/odps/odps-spark-datasource_2.11/3.3.8-public/odps-spark-datasource_2.11-3.3.8-public-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Documents/repository/com/aliyun/odps/odps-spark-datasource_2.11/3.3.8-public/odps-spark-datasource_2.11-3.3.8-public-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

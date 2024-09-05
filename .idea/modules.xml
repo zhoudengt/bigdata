@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/MaxCompute-Spark.iml" filepath="$PROJECT_DIR$/.idea/MaxCompute-Spark.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spark-1.x/spark-1.x.iml" filepath="$PROJECT_DIR$/spark-1.x/spark-1.x.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spark-2.x/spark-2.x.iml" filepath="$PROJECT_DIR$/spark-2.x/spark-2.x.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spark-3.x/spark-3.x.iml" filepath="$PROJECT_DIR$/spark-3.x/spark-3.x.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spark-utils/spark-utils.iml" filepath="$PROJECT_DIR$/spark-utils/spark-utils.iml" />
+    </modules>
+  </component>
+</project>
